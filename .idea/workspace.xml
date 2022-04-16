@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17afd43c-c650-42a3-927b-c4e8a6b718a1" name="Changes" comment="Project organization and environment configuration.">
-      <change afterPath="$PROJECT_DIR$/gameplay/src/@types/png.d.ts" afterDir="false" />
+    <list default="true" id="17afd43c-c650-42a3-927b-c4e8a6b718a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gameplay/src/components/ButtonIcon/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameplay/src/components/ButtonIcon/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameplay/src/global/styles/theme.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplay/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplay/assets/adaptive-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/assets/adaptive-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplay/assets/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/assets/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplay/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/assets/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplay/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/assets/splash.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gameplay/view/SingIn/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/view/SingIn/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gameplay/view/SingIn/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/view/SingIn/styles.ts" afterDir="false" />
     </list>
@@ -82,7 +79,8 @@
       <workItem from="1648853978724" duration="1319000" />
       <workItem from="1649442849905" duration="13000" />
       <workItem from="1649949027341" duration="3521000" />
-      <workItem from="1649974687311" duration="5989000" />
+      <workItem from="1649974687311" duration="6684000" />
+      <workItem from="1650068396339" duration="11497000" />
     </task>
     <task id="LOCAL-00001" summary="Project organization and environment configuration.">
       <created>1647105559233</created>
@@ -91,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647105559233</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactoring and implementing styled components">
+      <created>1650067684059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650067684059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project organization and environment configuration." />
-    <option name="LAST_COMMIT_MESSAGE" value="Project organization and environment configuration." />
+    <MESSAGE value="Refactoring and implementing styled components" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring and implementing styled components" />
   </component>
 </project>

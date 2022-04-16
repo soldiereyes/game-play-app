@@ -1,28 +1,42 @@
 // Em index eu criro a estrutura da minha interface
-import React, {useState} from "react";
-import {StatusBar} from "expo-status-bar";
+import React from "react";
 import "../../assets/splash.png"
+import {StatusBar} from "react-native";
 import {
     Container,
     Image,
     View,
     TextTitulo,
-    TextSubtitulo
+    TextSubtitulo,
 } from "./styles";
-
-
 import IllustrationImg from '../../src/assets/illustration.png'
+import {ButtonIcon} from "../../src/components/ButtonIcon";
 
 
 export function SingIn() {
-    const [text, setText] = useState('');
 
     return (
         <Container>
-            <Image source={IllustrationImg}/>
+            <StatusBar
+                barStyle="light-content"
+                backgroundColor="transparent"
+                translucent={true}
+            />
+            <Image
+                source={IllustrationImg}
+                resizeMode="stretch"
+            />
             <View>
-                <TextTitulo>Organize {`\n`}suas jogatinas {`\n`}facilmente </TextTitulo>
-                <TextSubtitulo>Crie grupos para jogar seus games{`\n`} favoritos com os amigos </TextSubtitulo>
+                <TextTitulo>Organize {`\n`}
+                    suas jogatinas {`\n`}
+                    facilmente
+                </TextTitulo>
+                <TextSubtitulo>Crie grupos para jogar seus games{`\n`}
+                    favoritos com os amigos
+                </TextSubtitulo>
+                <ButtonIcon
+                    title={"Entrar com Discord"}
+                    activeOpacity={0.7}/>
             </View>
         </Container>
     )
