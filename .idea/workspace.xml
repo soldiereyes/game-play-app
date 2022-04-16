@@ -4,16 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17afd43c-c650-42a3-927b-c4e8a6b718a1" name="Changes" comment="" />
+    <list default="true" id="17afd43c-c650-42a3-927b-c4e8a6b718a1" name="Changes" comment="Project organization and environment configuration.">
+      <change afterPath="$PROJECT_DIR$/gameplay/src/@types/png.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/assets/adaptive-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/assets/adaptive-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/assets/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/assets/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/assets/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/assets/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/assets/splash.png" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/assets/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/view/SingIn/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/view/SingIn/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/view/SingIn/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/view/SingIn/styles.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26HlJoJlSbuSCPcQP3sg5qb8ASQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,12 +39,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gameplay/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
     <property name="ts.external.directory.path" value="C:\Users\Unika\Desktop\nfl-together-app\gameplay\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -51,11 +69,47 @@
       <updated>1647088344161</updated>
       <workItem from="1647088355776" duration="174000" />
       <workItem from="1647088566882" duration="1034000" />
-      <workItem from="1647089624381" duration="13100000" />
+      <workItem from="1647089624381" duration="13495000" />
+      <workItem from="1647174494736" duration="6000" />
+      <workItem from="1647908177779" duration="2167000" />
+      <workItem from="1647913432351" duration="3742000" />
+      <workItem from="1648137892348" duration="944000" />
+      <workItem from="1648250001636" duration="5672000" />
+      <workItem from="1648569287778" duration="135000" />
+      <workItem from="1648727853956" duration="40000" />
+      <workItem from="1648762616703" duration="425000" />
+      <workItem from="1648763086263" duration="4430000" />
+      <workItem from="1648853978724" duration="1319000" />
+      <workItem from="1649442849905" duration="13000" />
+      <workItem from="1649949027341" duration="3521000" />
+      <workItem from="1649974687311" duration="5989000" />
     </task>
+    <task id="LOCAL-00001" summary="Project organization and environment configuration.">
+      <created>1647105559233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647105559233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project organization and environment configuration." />
+    <option name="LAST_COMMIT_MESSAGE" value="Project organization and environment configuration." />
   </component>
 </project>

@@ -1,18 +1,25 @@
-import styled from "styled-components/native";
+import styled from 'styled-components/native';
 
-export const StyledView = styled.View `
-  flex: 1;
+
+export const Container = styled.View`
+  flex: 1px;
   align-items: center;
-  background-color: blueviolet;
   justify-content: center;
 `
-export const StyledText = styled.Text``
+export const Input = styled.TextInput`
+  height: 50px;
+  width: 100px;
+  border-bottom-width: 2px;
+`
+export const Image = styled.Image`
 
-// export const Input = styled.Text`
-//   input {
-//     width: 200px;
-//     height: 50px;
-//     border-radius: 4px;
-//   }`
+`
+export const View = styled.View`
 
+`
+export const TextTitulo = styled.Text`
 
+`
+export const TextSubtitulo = styled.Text`
+
+`
