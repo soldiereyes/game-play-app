@@ -1,11 +1,13 @@
 import styled from 'styled-components/native';
+import theme from '../../global/styles/theme';
 
 
 export const Container = styled.View`
+  background-color: ${(theme.colors.secondary100)};
   flex: 1px;
   align-items: center;
   justify-content: center;
-  background-color: #0D133E;
+
 `
 export const Input = styled.TextInput`
   height: 50px;
@@ -23,15 +25,19 @@ export const View = styled.View`
 
 `
 export const TextTitulo = styled.Text`
-  color: #DDE3F0;
+  color: ${(theme.colors.heading)};
+  font-family: ${(theme.font.family.title700)};
   text-align: center;
+  line-height: 40px;
   font-size: 40px;
   margin-bottom: 16px;
-
+  
 `
 export const TextSubtitulo = styled.Text`
-  color: #DDE3F0;
+  color: ${(theme.colors.heading)};
+  font-family: ${(theme.font.family.title500)};
   font-size: 15px;
   text-align: center;
+  line-height: 25px;
   margin-bottom: 64px;
 `

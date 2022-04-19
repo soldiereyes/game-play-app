@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17afd43c-c650-42a3-927b-c4e8a6b718a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gameplay/src/components/ButtonIcon/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gameplay/src/components/ButtonIcon/styles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gameplay/src/global/styles/theme.ts" afterDir="false" />
+    <list default="true" id="17afd43c-c650-42a3-927b-c4e8a6b718a1" name="Changes" comment="Construction of the SingIn screen and the initial screen button component">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/src/components/ButtonIcon/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/src/components/ButtonIcon/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/src/global/styles/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/src/global/styles/theme.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gameplay/view/SingIn/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/view/SingIn/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gameplay/view/SingIn/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/view/SingIn/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="4" />
@@ -80,7 +90,11 @@
       <workItem from="1649442849905" duration="13000" />
       <workItem from="1649949027341" duration="3521000" />
       <workItem from="1649974687311" duration="6684000" />
-      <workItem from="1650068396339" duration="11497000" />
+      <workItem from="1650068396339" duration="14136000" />
+      <workItem from="1650126144864" duration="5054000" />
+      <workItem from="1650160332711" duration="5413000" />
+      <workItem from="1650281039875" duration="1221000" />
+      <workItem from="1650370420937" duration="9949000" />
     </task>
     <task id="LOCAL-00001" summary="Project organization and environment configuration.">
       <created>1647105559233</created>
@@ -96,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650067684059</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Construction of the SingIn screen and the initial screen button component">
+      <created>1650081102592</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650081102592</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project organization and environment configuration." />
     <MESSAGE value="Refactoring and implementing styled components" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring and implementing styled components" />
+    <MESSAGE value="Construction of the SingIn screen and the initial screen button component" />
+    <option name="LAST_COMMIT_MESSAGE" value="Construction of the SingIn screen and the initial screen button component" />
   </component>
 </project>

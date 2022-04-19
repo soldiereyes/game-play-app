@@ -1,6 +1,6 @@
 // Em index eu criro a estrutura da minha interface
 import React from "react";
-import "../../assets/splash.png"
+import "../../../assets/splash.png"
 import {StatusBar} from "react-native";
 import {
     Container,
@@ -9,29 +9,26 @@ import {
     TextTitulo,
     TextSubtitulo,
 } from "./styles";
-import IllustrationImg from '../../src/assets/illustration.png'
-import {ButtonIcon} from "../../src/components/ButtonIcon";
+import IllustrationImg from '../../assets/illustration.png'
+import {ButtonIcon} from "../../components/ButtonIcon";
 
 
 export function SingIn() {
 
     return (
         <Container>
-            <StatusBar
-                barStyle="light-content"
-                backgroundColor="transparent"
-                translucent={true}
-            />
             <Image
                 source={IllustrationImg}
                 resizeMode="stretch"
             />
             <View>
-                <TextTitulo>Organize {`\n`}
-                    suas jogatinas {`\n`}
-                    facilmente
+                <TextTitulo>
+                    Conecte-se {`\n`}
+                    e organize suas{`\n`}
+                    jogatinas
                 </TextTitulo>
-                <TextSubtitulo>Crie grupos para jogar seus games{`\n`}
+                <TextSubtitulo>
+                    Crie grupos para jogar seus games{`\n`}
                     favoritos com os amigos
                 </TextSubtitulo>
                 <ButtonIcon
