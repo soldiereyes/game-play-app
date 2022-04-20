@@ -3,7 +3,6 @@ import theme from '../../global/styles/theme';
 
 
 export const Container = styled.View`
-  background-color: ${(theme.colors.secondary100)};
   flex: 1px;
   align-items: center;
   justify-content: center;

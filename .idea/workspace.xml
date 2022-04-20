@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17afd43c-c650-42a3-927b-c4e8a6b718a1" name="Changes" comment="Construction of the SingIn screen and the initial screen button component">
+    <list default="true" id="17afd43c-c650-42a3-927b-c4e8a6b718a1" name="Changes" comment="Globalization of the theme and import and application of sources. Changing the Status Bar for the App module">
+      <change afterPath="$PROJECT_DIR$/gameplay/src/components/Background/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameplay/src/components/Background/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameplay/src/view/Home/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameplay/src/view/Home/styles.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gameplay/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gameplay/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplay/src/components/ButtonIcon/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/src/components/ButtonIcon/styles.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplay/src/global/styles/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/src/global/styles/theme.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplay/view/SingIn/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/view/SingIn/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplay/view/SingIn/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/view/SingIn/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/src/view/SingIn/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/src/view/SingIn/styles.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gameplay/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +62,7 @@
       <recent name="C:\Users\Unika\Desktop\nfl-together-app\gameplay\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Unika\Desktop\nfl-together-app\gameplay\src\view" />
       <recent name="C:\Users\Unika\Desktop\nfl-together-app\gameplay\src" />
       <recent name="C:\Users\Unika\Desktop\nfl-together-app\gameplay\view" />
       <recent name="C:\Users\Unika\Desktop\nfl-together-app\gameplay\src\styles" />
@@ -94,7 +96,8 @@
       <workItem from="1650126144864" duration="5054000" />
       <workItem from="1650160332711" duration="5413000" />
       <workItem from="1650281039875" duration="1221000" />
-      <workItem from="1650370420937" duration="9949000" />
+      <workItem from="1650370420937" duration="10854000" />
+      <workItem from="1650423661244" duration="6235000" />
     </task>
     <task id="LOCAL-00001" summary="Project organization and environment configuration.">
       <created>1647105559233</created>
@@ -117,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650081102592</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Globalization of the theme and import and application of sources. Changing the Status Bar for the App module">
+      <created>1650406302464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650406302464</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +148,7 @@
     <MESSAGE value="Project organization and environment configuration." />
     <MESSAGE value="Refactoring and implementing styled components" />
     <MESSAGE value="Construction of the SingIn screen and the initial screen button component" />
-    <option name="LAST_COMMIT_MESSAGE" value="Construction of the SingIn screen and the initial screen button component" />
+    <MESSAGE value="Globalization of the theme and import and application of sources. Changing the Status Bar for the App module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Globalization of the theme and import and application of sources. Changing the Status Bar for the App module" />
   </component>
 </project>
