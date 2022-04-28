@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17afd43c-c650-42a3-927b-c4e8a6b718a1" name="Changes" comment="Globalization of the theme and import and application of sources. Changing the Status Bar for the App module">
-      <change afterPath="$PROJECT_DIR$/gameplay/src/components/Background/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gameplay/src/components/Background/styles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gameplay/src/view/Home/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gameplay/src/view/Home/styles.ts" afterDir="false" />
+    <list default="true" id="17afd43c-c650-42a3-927b-c4e8a6b718a1" name="Changes" comment="Finalization of SingIn and implementation of lib Gradiente (Expo)">
+      <change afterPath="$PROJECT_DIR$/gameplay/src/components/Avatar/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameplay/src/components/Avatar/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameplay/src/components/Profile/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameplay/src/components/Profile/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameplay/src/routes/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameplay/src/routes/routes.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gameplay/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gameplay/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gameplay/src/view/SingIn/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/src/view/SingIn/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/src/components/Background/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/src/components/Background/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/src/components/Background/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/src/components/Background/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/src/view/Home/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/src/view/Home/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameplay/src/view/Home/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/src/view/Home/styles.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gameplay/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/gameplay/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +103,23 @@
       <workItem from="1650160332711" duration="5413000" />
       <workItem from="1650281039875" duration="1221000" />
       <workItem from="1650370420937" duration="10854000" />
-      <workItem from="1650423661244" duration="6235000" />
+      <workItem from="1650423661244" duration="7368000" />
+      <workItem from="1650459143091" duration="1802000" />
+      <workItem from="1650733811468" duration="2948000" />
+      <workItem from="1650742934461" duration="18188000" />
+      <workItem from="1650840376248" duration="1399000" />
+      <workItem from="1650841796110" duration="222000" />
+      <workItem from="1650842155503" duration="1159000" />
+      <workItem from="1650843431388" duration="1713000" />
+      <workItem from="1650845208052" duration="362000" />
+      <workItem from="1650888172375" duration="2067000" />
+      <workItem from="1650924079185" duration="2308000" />
+      <workItem from="1650927118592" duration="177000" />
+      <workItem from="1650927391987" duration="2054000" />
+      <workItem from="1650930531960" duration="1082000" />
+      <workItem from="1650931708143" duration="5451000" />
+      <workItem from="1650973733685" duration="4830000" />
+      <workItem from="1651153630270" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="Project organization and environment configuration.">
       <created>1647105559233</created>
@@ -127,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650406302464</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finalization of SingIn and implementation of lib Gradiente (Expo)">
+      <created>1650430323736</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650430323736</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +178,7 @@
     <MESSAGE value="Refactoring and implementing styled components" />
     <MESSAGE value="Construction of the SingIn screen and the initial screen button component" />
     <MESSAGE value="Globalization of the theme and import and application of sources. Changing the Status Bar for the App module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Globalization of the theme and import and application of sources. Changing the Status Bar for the App module" />
+    <MESSAGE value="Finalization of SingIn and implementation of lib Gradiente (Expo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalization of SingIn and implementation of lib Gradiente (Expo)" />
   </component>
 </project>

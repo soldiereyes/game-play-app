@@ -1,5 +1,5 @@
 import React, {ReactNode} from "react";
-import {Container} from "./styles";
+import {ContainerLinearGradiente} from "./styles";
 
 type Props = {
     children: ReactNode;
@@ -7,8 +7,8 @@ type Props = {
 
 export function Background({children}) {
     return (
-        <Container>
+        <ContainerLinearGradiente>
             {children}
-        </Container>
+        </ContainerLinearGradiente>
     )
 }
